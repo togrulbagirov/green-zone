@@ -1,0 +1,102 @@
+*{box-sizing: border-box;
+padding: 0;
+margin: 0;
+
+
+}
+.adam{
+    text-align: center;
+    background-color: chartreuse;
+    padding: 30px 0;
+    margin-right: 150px;
+    margin-left: 150px;
+    
+}
+.adam h1{
+    color: wheat;
+    margin-top: 30px;
+}
+.heyvan{
+    text-align: center;
+}
+.heyvan a{
+    text-decoration: none;
+}
+.heyvan .f{
+    margin-right: 250px;
+}
+.heyvan .d{
+    margin-right: 300px;
+}
+.heyvan .a{
+    margin-right: 200px;
+}
+.it{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.it h5{
+    
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.it h3{
+    margin-left: 60px;
+}
+.it p{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.it h1{
+    font-size: 80px;
+    
+}
+.heyvan a{background-color: blanchedalmond;
+    color: black;
+    padding: 10px 10px;
+border-radius: 7px;}
+    .adam{
+margin-bottom: 11px;
+    }
+    .it h3{
+        margin-top: 20px;
+    }
+    .derrake p{
+        margin-left: 210px;
+        margin-right: 210px;
+        margin-top: 50px;
+    }
+    .talant{
+        margin-left: 210px;
+        margin-top: 30px;
+    }
+    .heyva{
+        margin-left: 210px;
+    }
+    .heyva ol{
+        margin-left: 14px;
+    }
+    .heyva h1{
+        font-size: 20px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        color: green;
+    }
+.heyva ol li a{
+    color: green;
+    text-decoration: none;
+}
+.kol li a{
+    color: green;
+    text-decoration: none;
+}
+.heyva .fil{
+    background-color: green;
+    color: honeydew;
+    padding: 10px 420px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.heyva .kol{
+    margin-bottom: 50px;
+}
